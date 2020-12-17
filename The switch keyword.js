@@ -18,5 +18,4 @@ switch (athleteFinalPosition) {
   break;
 }
 
-// If run, console displays: You get the gold medal! 
-
+// If run the code block, the result will be: You get the gold medal! 
